@@ -1,0 +1,11 @@
+name: boston_legacy_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn=1.1.3
+  - ipykernel
