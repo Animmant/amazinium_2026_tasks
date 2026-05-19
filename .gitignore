@@ -1,0 +1,24 @@
+# IDE
+settings.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (large)
+*.csv
+rt-polarity.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
